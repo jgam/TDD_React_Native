@@ -1,7 +1,12 @@
 import 'react-native';
+/**
+ * @format
+ */
+
+import 'react-native';
 import React from 'react';
 import App from '../src/App';
-import { format } from 'path';
+
 
 describe('Jest', ()=> {
     it('is it working?', () => {
